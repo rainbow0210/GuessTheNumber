@@ -1,5 +1,5 @@
 # GuessTheNumber
 
-This repository is "Guess the Number" C++ version. 
+This repository is "Guess the Number" . 
 
 (Sorry, print language is Japanese...)
