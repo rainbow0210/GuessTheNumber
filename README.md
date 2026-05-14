@@ -47,7 +47,7 @@ g++ -o GuessTheNumber GuessTheNumber.cpp
 
 ## ライセンス
 
-このプロジェクトはUnlicense（パブリックドメイン）の下で公開されています。詳細は[LICENSE](LICENSE)ファイルを参照してください。
+Unlicense license
 
 # English
 ## Overview
@@ -96,4 +96,4 @@ No configuration files or environment variables are required. To customize the g
 
 ## License
 
-This project is released under the Unlicense (public domain). For more information, see the [LICENSE](LICENSE) file.
+Unlicense license
